@@ -1,0 +1,6 @@
+{
+  "name": "MotoGestión Pro",
+  "description": "Sistema modular de gestión de mantenimiento para motos: hoja de vida, órdenes de trabajo, planes preventivos, inventario, costos y auditoría.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
